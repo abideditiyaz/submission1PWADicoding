@@ -1,0 +1,16 @@
+{
+	"name": "submission 1revisi",
+	"short_name": "submit1",
+	"description": "SKS lurd",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#7fbbf9",
+	"theme_color": "#7fbbf9",
+	"icons": [
+		{
+			"src": "icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
